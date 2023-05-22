@@ -1,0 +1,2 @@
+git init - initialises a git repository in the current directory
+git add - adds a file to the staging area/staging your files
